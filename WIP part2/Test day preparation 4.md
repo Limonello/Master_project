@@ -26,11 +26,13 @@ Cleaning Queens (Image source: https://store.steampowered.com/app/2229420/Cleani
 Viscera Cleanup Detail (Image source: https://store.steampowered.com/app/246900/Viscera_Cleanup_Detail/)
 
 ![](images/20231207/powerwashsimulator.jpeg)
+
 PowerWash Simulator (Image source: https://store.steampowered.com/app/1290000/PowerWash_Simulator/)
 
 "Cleaning" as a gameplay seems alos to be often used in mystery games in which you have to solve murders and crimes. For example, the game "This Bed We Made" tells the story of a cleaning lady working in a hotel in the 50's. She uses her job to investigate and discover the clients' darkest secrets.
 
 ![](images/20231207/thisbedwemade.jpeg)
+
 This Bed We Made (Image source: https://store.steampowered.com/app/1243850/This_Bed_We_Made/)
 
 I also made some researches using the key word "Housewife". The first results I got were "Adult games" (+18). I also found a "Happy Family Life Simulator" in which you do chores. But the gameplay is limited to click to the right place and wait for the chore to be fullfield.
