@@ -48,6 +48,7 @@ House Wife (Image source: https://retsymthenam.itch.io/housewife-free-version)
 Happy Family Life Simulator 2020 (Image source: https://www.youtube.com/watch?v=RIvBVQnmSXE)
 
 ![](images/20231207/thehousewife.jpeg)
+
 The Housewife (Image source: https://store.steampowered.com/app/496750/The_Housewife/)
 
 "Angry Wife" is probably a kickstarter project. The trailer explains the story which is the following. You are a poor husband working hard during the day but neglecting your wife and your chores. Therefore, she is angry at you and beats you. To heal your relationship, you have to do different domestic chores. This project has a gameplay close to what I have in mind: to fulfill the chores, you don't have to click and wait like in other games, you actually have to "do" them. But since I find the overall message of this project pretty unhealthy, I don't want to use it as a reference.
@@ -61,9 +62,11 @@ Housewife Simulator (Image source: https://hadios.itch.io/housewife-simulator)
 In the end, I made a small list of games similar in some ways to what I want to do for my project. I already had "Cooking Mama" and "Venba" in mind for the gameplay, but I added "Technically Clean" and "Birth".
 
 ![](images/20231207/cookingmama.png)
+
 Cooking Mama 2, Dinner with friends (Image source: https://www.youtube.com/watch?v=hr-V9g_yl9Q)
 
 ![](images/20231207/venba.jpeg)
+
 Venba (Image source: https://store.steampowered.com/app/1491670/Venba/)
 
 ![](images/20231207/BIrth1.png)
