@@ -16,7 +16,7 @@ Before testing my prototype with a friend, I wrote different "output sentences".
 
 The testing phase went really well. I explained to my friend that they just moved out in a new appartement with their partner and children. While everyone is at work/school, they have to do housechores. But they have only certains objects they can use since the majority of it is still packed in cardboard boxes.
 
-I asked him to do three chores: clean the floor, cook, iron the laundry. For each task, I specified the context and challenges. After the test, we made a debrief and I took some notes about what worked well and what would need to be improved.
+I asked them to do three chores: clean the floor, cook, iron the laundry. For each task, I specified the context and challenges. After the test, we made a debrief and I took some notes about what worked well and what would need to be improved.
 
 ![](images/20231212/testproto.png)
 
