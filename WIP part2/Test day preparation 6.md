@@ -12,7 +12,7 @@ I talked with Camille and she said I should try to add more context and challeng
 
 Before testing my prototype with a friend, I wrote different "output sentences". This way, I could test them and see what works best.
 
-![](images/20231212/choresresults.jpg)
+![](images/20231212/outputmessage.jpg)
 
 The testing phase went really well. I explained to my friend that they just moved out in a new appartement with their partner and children. While everyone is at work/school, they have to do housechores. But they have only certains objects they can use since the majority of it is still packed in cardboard boxes.
 
