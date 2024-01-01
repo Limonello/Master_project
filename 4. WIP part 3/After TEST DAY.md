@@ -1,6 +1,6 @@
 # Thinking about the visuals
 
-## 18-20.12.2023
+## 18-20.12.2023
 
 We used the three days left before holidays to start thinking about different things like the poster and our project as a physical object.
 
