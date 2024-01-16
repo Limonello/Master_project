@@ -8,8 +8,8 @@ Therefore, I have a basic structure that can still be pretty flexible. This is a
 
 After focusing on the narration, I thought about the environment. For now, the story happens in a chalet in the mountains. I tried making some plans to fit all the rooms in two floors. I found a rather working repartition of space. Now, I need to draw backgrounds to see if it actually works.
 
-![](images/scenario.jpeg)
+![](images/20240101-04/scenario.jpeg)
 
-![](images/chalet1.jpeg)
+![](images/20240101-04/chalet1.jpeg)
 
-![](images/chalet2.jpeg)
+![](images/20240101-04/chalet2.jpeg)
